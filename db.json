@@ -1,0 +1,120 @@
+{
+  "users": [
+    {
+      "name": "aksh",
+      "email": "akshaya@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "akshaya",
+      "email": "akshaya24@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "akshaya",
+      "email": "akshaya240@gmail.com",
+      "password": "123456",
+      "id": 3
+    }
+  ],
+  "applications": [
+    {
+      "companyName": "w",
+      "jobRole": "c",
+      "location": "z",
+      "applicationDate": "2026-09-28",
+      "interviewDate": "2026-09-30",
+      "status": "Offer Received",
+      "jobLink": "",
+      "notes": "",
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "companyName": "tcs",
+      "jobRole": "q",
+      "location": "q",
+      "applicationDate": "2026-10-03",
+      "interviewDate": "",
+      "status": "Applied",
+      "jobLink": "",
+      "notes": "",
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "companyName": "w",
+      "jobRole": "w",
+      "location": "z",
+      "applicationDate": "2026-10-02",
+      "interviewDate": "2026-10-06",
+      "status": "Applied",
+      "jobLink": "",
+      "notes": "",
+      "userId": 1,
+      "id": 8
+    },
+    {
+      "companyName": "f",
+      "jobRole": "f",
+      "location": "f",
+      "applicationDate": "2026-10-13",
+      "interviewDate": "",
+      "status": "Interview Scheduled",
+      "jobLink": "",
+      "notes": "",
+      "userId": 1,
+      "id": 9
+    },
+    {
+      "companyName": "a",
+      "jobRole": "a",
+      "location": "",
+      "applicationDate": "2026-10-05",
+      "interviewDate": "",
+      "status": "Applied",
+      "jobLink": "",
+      "notes": "",
+      "userId": 1,
+      "id": 10
+    },
+    {
+      "companyName": "tcs",
+      "jobRole": "react developer",
+      "location": "mumbai",
+      "applicationDate": "2026-10-03",
+      "interviewDate": "2026-10-04",
+      "status": "Applied",
+      "jobLink": "",
+      "notes": "",
+      "userId": 2,
+      "id": 11
+    },
+    {
+      "companyName": "a",
+      "jobRole": "react developer",
+      "location": "a",
+      "applicationDate": "2026-09-09",
+      "interviewDate": "",
+      "status": "Interview Scheduled",
+      "jobLink": "",
+      "notes": "",
+      "userId": 2,
+      "id": 12
+    },
+    {
+      "companyName": "w",
+      "jobRole": "v",
+      "location": "s",
+      "applicationDate": "2026-09-17",
+      "interviewDate": "",
+      "status": "Offer Received",
+      "jobLink": "",
+      "notes": "",
+      "userId": 2,
+      "id": 13
+    }
+  ]
+}
